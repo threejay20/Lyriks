@@ -102,10 +102,7 @@ useEffect (() => {
               handlePauseClick={handlePauseClick}
               handlePlayClick={() => handlePlayClick(song, i)}
 
-              
-              
-              
-              />
+                  />
 
             ))}
 
