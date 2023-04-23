@@ -100,7 +100,7 @@ useEffect (() => {
               isPlaying={isPlaying}
               activeSong={activeSong}
               handlePauseClick={handlePauseClick}
-              handlePlayClick={() => handlePlayClick(song[0], i)}
+              handlePlayClick={() => handlePlayClick(song, i)}
 
               
               
